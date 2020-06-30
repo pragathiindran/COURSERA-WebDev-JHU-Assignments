@@ -7,8 +7,10 @@ This repository contains my solutions to the Module - 2 Coding Assignments for t
 
 Assignment Links:
 - [Module 2 Assignment](http://goo.gl/4Blt4G)
--[Module 3 Assignment](http://bit.ly/1mKZzJ5)
+
+- [Module 3 Assignment](http://bit.ly/1mKZzJ5)
 
 Solution Link:
 https://pragathiindran.github.io/COURSERA-WebDev-JHU-Assignments/Module2-solution/index.html
+
 https://pragathiindran.github.io/COURSERA-WebDev-JHU-Assignments/Module3-solution/index.html
